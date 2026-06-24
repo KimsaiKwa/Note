@@ -1,0 +1,41 @@
+[Proxy]
+⚡️️HK香港 - 01 | Disney = trojan, zb.peaceandlove2017.com, 42052, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 02 | Disney = trojan, zb.peaceandlove2017.com, 42053, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 03 | Disney = trojan, zb.peaceandlove2017.com, 42054, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 04 | Disney = trojan, zb.peaceandlove2017.com, 42055, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 05 | Disney = trojan, zb.peaceandlove2017.com, 42056, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 06 | Disney = trojan, zb.peaceandlove2017.com, 23479, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️HK香港 - 07 | Disney = trojan, zb.peaceandlove2017.com, 39648, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️HK香港 - 08 | Netflix = trojan, zb.peaceandlove2017.com, 14987, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️HK香港 - 09 | Gemini = trojan, zb.peaceandlove2017.com, 10228, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️HK香港 - 10 | Gemini = trojan, zb.peaceandlove2017.com, 22191, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️HK香港 - 11 | HBO Max = trojan, zb.peaceandlove2017.com, 23834, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️HK香港 - 12 | Netflix = trojan, zb.peaceandlove2017.com, 10518, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️TW台湾 - 01 | Netflix = trojan, zb.peaceandlove2017.com, 24521, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️SG新加坡 - 01 | Disney = trojan, zb.peaceandlove2017.com, 20120, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️SG新加坡 - 02 | Disney = trojan, zb.peaceandlove2017.com, 22875, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️SG新加坡 - 03 | Gemini = trojan, zb.peaceandlove2017.com, 28269, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️JP日本 - 01 | Gemini = trojan, zb.peaceandlove2017.com, 34075, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️JP日本 - 02 | Gemini = trojan, zb.peaceandlove2017.com, 45983, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️JP日本 - 03 | Gemini = trojan, zb.peaceandlove2017.com, 48082, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️JP日本 - 04 | Gemini = trojan, zb.peaceandlove2017.com, 13675, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️US美国 - 01 | ChatGPT = trojan, zb.peaceandlove2017.com, 16171, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️US美国 - 02 | ChatGPT = trojan, zb.peaceandlove2017.com, 23266, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️US美国 - 03 | ChatGPT = trojan, zb.peaceandlove2017.com, 28107, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️US美国 - 04 | ChatGPT = trojan, zb.peaceandlove2017.com, 22440, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️US美国 - 05 | Gemini = trojan, zb.peaceandlove2017.com, 35515, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️KR韩国 | ChatGPT = trojan, zb.peaceandlove2017.com, 35230, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️IN印度 | Netflix = trojan, zb.peaceandlove2017.com, 36571, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️VN越南 | ChatGPT = trojan, zb.peaceandlove2017.com, 24909, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️UK英国 | Netflix = trojan, zb.peaceandlove2017.com, 49657, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️DE德国 | Disney = trojan, zb.peaceandlove2017.com, 45314, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️CH瑞士 | Disney = trojan, zb.peaceandlove2017.com, 20261, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️NO挪威 | Netflix = trojan, zb.peaceandlove2017.com, 10054, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️CZ捷克 | Netflix = trojan, zb.peaceandlove2017.com, 45128, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️AT奥地利 | Disney = trojan, zb.peaceandlove2017.com, 34333, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️ES西班牙 | Netflix = trojan, zb.peaceandlove2017.com, 27409, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️UA乌克兰 | ChatGPT = trojan, zb.peaceandlove2017.com, 40862, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️AZ阿塞拜疆 | ChatGPT = trojan, zb.peaceandlove2017.com, 19037, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️MY马来西亚 | Netflix = trojan, zb.peaceandlove2017.com, 41431, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️ID印度尼西亚 | ChatGPT = trojan, zb.peaceandlove2017.com, 37268, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
+⚡️️NG尼日利亚 | ChatGPT = trojan, zb.peaceandlove2017.com, 17609, password=b4bfceaf-8b82-4ebf-82e1-2f71c74d835e, skip-cert-verify=true, sni=bing.com
